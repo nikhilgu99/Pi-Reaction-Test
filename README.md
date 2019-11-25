@@ -12,4 +12,4 @@ This is using the BCM number layout for the pins.
 ![Image](/images/Console.jpg)
 
 ## TODO
-- [ ] Implement ability replay without having to restart the program
+- [ ] Implement ability to replay without having to restart the program
